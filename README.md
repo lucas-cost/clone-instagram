@@ -1,3 +1,3 @@
 # TELA DE LOGIN INSTAGRAM :rocket:
 
-![SharedScreenshot](C:\Users\Lukas-Dev\Desktop\SharedScreenshot.jpg)
+![SharedScreenshot](C:\Clone Instagram\SharedScreenshot.jpg)
